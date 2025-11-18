@@ -39,13 +39,3 @@ Endereço: {rua}, {numero}, {bairro}. {cidade} - {UF}.
 # }
 
 
-
-lista_1 = list()
-
-meu_dict = dict()
-meu_dict["nome"] = "giseldo"
-meu_dict["cpf"] = "123"
-
-lista_1.append(meu_dict)
-lista_1.append(meu_dict)
-
